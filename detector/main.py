@@ -229,8 +229,8 @@ def parse_opt():
 
 
 def main(opt):
-    # Connect to the frontend socket server
-    sio.connect('http://localhost:8080')  # Change this to your frontend server URL
+    # Connect to the backend socket server
+    sio.connect('http://localhost:8080')
     
     check_requirements(exclude=('tensorboard', 'thop'))
     
