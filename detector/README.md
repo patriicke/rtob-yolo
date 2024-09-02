@@ -17,6 +17,8 @@ Make sure you run the backend server first to allow you to send data to the serv
 
 ### Note
 
+- Make sure you've downloaded the video we're using for testing from here: <https://youtu.be/MNn9qKG2UFI?si=Pt6RE8dt17OV67ne>
+
 Use the commands below to run the
 
 ```bash
